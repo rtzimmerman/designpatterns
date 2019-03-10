@@ -11,5 +11,6 @@
     <Folder Include="Behavioral Patterns\" />
     <Folder Include="Behavioral Patterns\Strategy Pattern\" />
     <Folder Include="Structural Patterns\Facade Pattern\" />
+    <Folder Include="Structural Patterns\Observer Pattern\" />
   </ItemGroup>
 </Project>
